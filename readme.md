@@ -1,7 +1,8 @@
 # SRE Google roadmap 2025
 
 >This roadmap is **S** tier because it's **comprehensive, balanced, Google-specific, practical, flexible, and aligns perfectly with L3/L4 SRE goals**.
-Last update - 28.01.2025
+
+_Last update - 28.01.2025_
 
 *Start: 4th January, 2025*
 
