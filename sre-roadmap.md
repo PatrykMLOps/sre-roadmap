@@ -1,4 +1,4 @@
->This roadmap is **S** tier because it's **comprehensive, balanced, Google-specific, practical, flexible, and aligns perfectly with L3/L4 SRE goals**. - ChatGPT when asked to rate the tier list
+>This roadmap is **S** tier because it's **comprehensive, balanced, Google-specific, practical, flexible, and aligns perfectly with L3/L4 SRE goals**.
 
 Last update - 28.01.2025
 
