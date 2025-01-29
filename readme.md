@@ -1,8 +1,7 @@
-# SRE Google roadmap 2025
-
 >This roadmap is **S** tier because it's **comprehensive, balanced, Google-specific, practical, flexible, and aligns perfectly with L3/L4 SRE goals**.
 
-_Last update - 28.01.2025_
+Last update - 29.01.2025
+
 
 *Start: 4th January, 2025*
 
@@ -15,10 +14,10 @@ _Last update - 28.01.2025_
 - [ ] SRE Basics
 	- [ ] Google SRE Workbook (Ch. 1-5) 
 	- [ ] Define SLIs/SLOs for a toy app. (https://github.com/google/slo-generator)
-- [ ] 4 bi-weekly blog posts
+- [ ] 4 blog posts
 - [ ] ByteByteGo system design course
 - [ ] read Understanding Distributed Systems
-- [ ] Linux/Networking
+- [ ] Linux/Networking 
 	- [ ] Master Linux internals (cgroups, systemd, kernel tuning)
 	- [ ] Learn TCP/IP, DNS 
 	- [ ] Practice tcpdump/wireshark, iptables
@@ -46,9 +45,9 @@ _Last update - 28.01.2025_
 - [ ] LeetCode - 300 total
 	- [ ] 110 medium
 	- [ ] 40 hard
-- [ ] 10 bi weekly Blog posts
-- [ ] Site Reliability Engineering (Ch. 6-10): Incident management, post-mortems.
-- [ ] Public talk
+- [ ] 10 Blog posts
+- [ ] Site Reliability Engineering (Ch. 6-10)
+- [ ] 1 tech public talk
 - [ ] DDIA - Part I
 - [ ] 3 documentation/bug fixes added to kubernetes project
 - [ ] Linux
@@ -95,12 +94,13 @@ Project: Optimize a slow API’s latency by profiling kernel syscalls
 
 *Completed:*  TBA
 *Rewards:*
->Time to achieve the dream. 
+>Time to achieve the dream.
+
+Follow my 5 AM study journey to becoming a Google SRE—subscribe to my YouTube channel for daily motivation! ([link](https://www.youtube.com/channel/UC8OInIVpGAcqIvw-OFG2ccQ))
+
 
 To add?
 1. **Linux/Networking Depth**: - Kernel basics, cgroups, namespaces,TCP/IP, tcpdump, iptables
 2. **NALSD Integration**: Google-specific design practice.
 3. **Incident Management Practice** - simulate outages and write post mortems
-
-
-Follow my 5 AM study journey to becoming a Google SRE—subscribe to my YouTube channel for daily motivation! ([link](https://www.youtube.com/channel/UC8OInIVpGAcqIvw-OFG2ccQ))
+4. 
