@@ -3,10 +3,6 @@
 
 Last update - 29.01.2025
 
-
-*Start: 4th January, 2025*
-
-
 ## Foundation
 - [ ] KCNA 
 - [ ] CKAD 
